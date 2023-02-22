@@ -11,7 +11,7 @@
   "dependencies": {
 	  "q": "^1.5.1",
     "body-parser": "1.18.2",
-    "express": "4.15.5",
+    "express": "4.18.2",
     "npm-check": "5.7.1",
     "send": "0.11.1",
     "handlebars": "4.0.10",
