@@ -1,7 +1,7 @@
-PyYAML==5.4.1
+PyYAML==6.0
 djangorestframework==3.11.1
 urllib3==1.24.3
-PyYAML==5.3.1
+PyYAML==6.0
 pip==19.1
 PyGithub==1.53
 python-gitlab==1.14.0
