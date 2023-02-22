@@ -43,7 +43,7 @@
     "dateformat": "2.0.0",
     "depcheck": "0.6.7",
     "ramda": "0.23.0",
-    "semver": "5.3.0",
+    "semver": "5.7.1",
 	"body-parser": "1.18.2"  
     }
     }
